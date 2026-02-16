@@ -109,7 +109,7 @@ header > div > p{
     display: flex;
     flex-direction: column;
     justify-content: space-around;
-    margin-top: 50px;
+    margin-top: 30px;
 }
 .topDeals > div > h1{
     font-family: sans-serif;
@@ -262,6 +262,7 @@ header > div > p{
     color: #fff;
 
 }
+
 
 
 
