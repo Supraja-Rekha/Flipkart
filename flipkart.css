@@ -100,6 +100,7 @@ header > div > p{
     background-color: white;
     margin: auto;
     margin-top: 20px;
+    margin-bottom:20px;
 }
 .republic{
     width: 100%;
@@ -109,7 +110,7 @@ header > div > p{
     display: flex;
     flex-direction: column;
     justify-content: space-around;
-    margin-top: -120px;
+    margin-top: -90px;
 }
 .topDeals > div > h1{
     font-family: sans-serif;
@@ -260,4 +261,5 @@ header > div > p{
     align-items: center;
     gap: 8px;
     color: #fff;
+
 }
