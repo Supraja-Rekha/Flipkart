@@ -95,12 +95,11 @@ header > div > p{
     height: 50px;
 }
 .topDeals{
-    height: 500px;
+    height: 400px;
     width: 95%;
     background-color: white;
     margin: auto;
     margin-top: 20px;
-    margin-bottom:20px;
 }
 .republic{
     width: 100%;
@@ -263,5 +262,6 @@ header > div > p{
     color: #fff;
 
 }
+
 
 
